@@ -1,3 +1,5 @@
 .env
 .vnev
 
+/.ipynb_checkpoints
+.idea
