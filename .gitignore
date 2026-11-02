@@ -1,5 +1,5 @@
 .env
-.vnev
+.venv
 
 /.ipynb_checkpoints
 .idea
